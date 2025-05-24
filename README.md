@@ -57,8 +57,7 @@ Use Pygame library to implement the game.
 
 ## 📷 Screenshots
 
-*(You can add images of the Start Screen, Gameplay, and Game Over Screen here.)*
-
+watch this video (https://drive.google.com/file/d/1gBNQFw7igG1oewgyJi7KgaAdrOolCnQn/view?usp=drive_link)
 ---
 
 ## 🧩 Game Structure
